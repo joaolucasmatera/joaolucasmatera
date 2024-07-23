@@ -1,5 +1,3 @@
-README para GitHub
-João Lucas Matera Moutinho
 Estudante de Sistemas de Informação | Desenvolvedor Back-End
 
 Sobre Mim
