@@ -1,16 +1,14 @@
-## Hi there 👋
+README para GitHub
+João Lucas Matera Moutinho
+Estudante de Sistemas de Informação | Desenvolvedor Back-End
 
-<!--
-**joaolucasmatera/joaolucasmatera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sobre Mim
+Olá! Sou João Lucas Matera Moutinho, estudante de Sistemas de Informação na Universidade Federal do Estado do Rio de Janeiro. Tenho uma paixão por tecnologia e inovação, com foco em desenvolvimento Back-End. Estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Habilidades Técnicas
+Linguagens de Programação: Java, Python, JavaScript
+Frameworks: Spring Boot, Node.js
+Ferramentas de Desenvolvimento: Docker, Jenkins, Git
+Bancos de Dados: MongoDB, MySQL
+Metodologias Ágeis: Scrum, Kanban
+Outros: Shell Script, ELK Stack, RabbitMQ
